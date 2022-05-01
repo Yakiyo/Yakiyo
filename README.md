@@ -16,11 +16,12 @@ Im new to the programming community and currently learning Javascript. Hoping to
 
 ### Socials
 
+<img align="right" src="https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=samuel&font=Redressed">
+<!-- Source link: https://github.com/shravan20/github-readme-quotes --> 
+
 🔗 Discord - [Yakiyo#1206](https://discords.com/bio/p/yakiyo)
 
 🦜 Twitter - [Yakiyo8](https://twitter.com/user/Yakiyo8)
 
 🍿 Anilist - [Yakiyo](https://anilist.co/user/763771)
 
-<img align="right" src="https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=samuel&font=Redressed">
-<!-- Source link: https://github.com/shravan20/github-readme-quotes --> 
