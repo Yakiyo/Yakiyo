@@ -24,3 +24,6 @@ Im new to the programming community and currently learning Javascript. Hoping to
 <img align="right" src="https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=samuel&font=Redressed">
 <!-- Source link: https://github.com/shravan20/github-readme-quotes --> 
 
+<img style="padding=0;" src="https://lanyard.cnrad.dev/api/695307292815654963?bg=1f1f1f&borderRadius=5pxidle">
+<img style="padding=0;" src="https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=samuel&font=Redressed">
+    
