@@ -1,26 +1,38 @@
-##  Hello. 
+#  Hello. ![Profile Views Image](https://komarev.com/ghpvc/?username=Yakiyo)
 
 Im Yakiyo, just an average high schooler. I like reading Light Novels and Mangas, and occassionally enjoy watching animes, tv shows and movies.
-Im new to the programming community and currently learning Javascript. Hoping to learn C and C++ later on.
+Im new to the programming community and currently learning Javascript and Typescript. Hoping to learn C and C++ later on.
 
-<img align="right" src="https://lanyard.cnrad.dev/api/695307292815654963?bg=1f1f1f&borderRadius=5pxidle">
-<!-- Source link: https://lanyard.cnrad.dev/ -->
 
-### Current Activities
+## Current Activities
 
-✨Creating my own discord bot as a learning project for nodejs
+- ✨Creating my own discord bot as a learning project for nodejs
 
-📚 Going through third year of highschool.
+- 📚 Going through third year of highschool.
 
-📘 Reading Light Novels
+- 📘 Reading Light Novels
 
-### Socials
+## Socials
 
-🔗 Discord - [Yakiyo#1206](https://discords.com/bio/p/yakiyo)
+- 🔗 **Discord** - [_Yakiyo#1206_](https://discords.com/bio/p/yakiyo)
 
-🦜 Twitter - [Yakiyo8](https://twitter.com/user/Yakiyo8)
+- 🦜 **Twitter** - [_Yakiyo8_](https://twitter.com/user/Yakiyo8)
 
-🍿 Anilist - [Yakiyo](https://anilist.co/user/763771)
-<img align="right" src="https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=samuel&font=Redressed">
-<!-- Source link: https://github.com/shravan20/github-readme-quotes --> 
+- 🍿 **Anilist** - [_Yakiyo_](https://anilist.co/user/763771)
 
+<hr>
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Yakiyo&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&count_private=true"/>
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakiyo&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true"/>
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+        <img align="center" style="padding=0;" alt="Discord Card" src="https://lanyard.cnrad.dev/api/695307292815654963?borderRadius=5pxidle&bg=00000000&borderRadius=0px&theme=dark&idleMessage=Dying%20in%20the%20middle%20of%20nowhere">
+    </td>
+  </tr>
+</table>
+<!-- Taken from didinele https://github.com/didinele/didinele -->
