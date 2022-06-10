@@ -1,4 +1,4 @@
-#  Hello. ![Profile Views Image](https://komarev.com/ghpvc/?username=Yakiyo)
+#  Hello.
 
 Im Yakiyo, just an average high schooler. I like reading Light Novels and Mangas, and occassionally enjoy watching animes, tv shows and movies.
 Im new to the programming community and currently learning Javascript and Typescript. Hoping to learn C and C++ later on.
