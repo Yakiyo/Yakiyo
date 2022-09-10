@@ -14,7 +14,7 @@ Im new to the programming community and currently learning Javascript and Typesc
 
 ## Socials
 
-- 🔗 **Discord** - [_Yakiyo#1206_](https://discords.com/bio/yakiyo)
+- 🔗 **Discord** - [_Yakiyo#1206_](https://discord.bio/yakiyo)
 
 - 🍿 **Anilist** - [_Yakiyo_](https://anilist.co/user/763771)
 
