@@ -1,7 +1,7 @@
 #  Hello.
 
 Im Yakiyo, just an average high schooler. I like reading Light Novels and Mangas, and occassionally enjoy watching animes, tv shows and movies.
-Im new to the programming community and currently learning Javascript and Typescript. Hoping to learn C and C++ later on.
+Im new to the programming community and currently learning [Rust](https://rust-lang.org). Also trying out [Deno](https://deno.land) & [Typescript](https://typescriptlang.org)
 
 
 ## Current Activities
