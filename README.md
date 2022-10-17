@@ -31,4 +31,4 @@ Im new to the programming community and currently learning [Rust](https://rust-l
   </tr>
 </table>
 <!-- Taken from didinele https://github.com/didinele/didinele -->
-<p align="center"><img alt="Discord Card" src="https://lanyard.cnrad.dev/api/695307292815654963?borderRadius=5pxidle&borderRadius=0px&theme=dark&idleMessage=Dying%20in%20the%20middle%20of%20nowhere"></p>
+<p align="center"><img alt="Discord Card" src="https://lanyard.cnrad.dev/api/695307292815654963?borderRadius=10px&theme=dark&idleMessage=Dying%20in%20the%20middle%20of%20nowhere"></p>
