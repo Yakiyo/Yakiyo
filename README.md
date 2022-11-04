@@ -1,12 +1,12 @@
 #  Hello.
 
 Im Yakiyo, just an average high schooler. I like reading Light Novels and Mangas, and occassionally enjoy watching animes, tv shows and movies.
-Im new to the programming community and currently learning [Rust](https://rust-lang.org). Also trying out [Deno](https://deno.land) & [Typescript](https://typescriptlang.org)
+I code in my free time. Javascript/Typescript, Python, Dart, Rust coder.
 
 
 ## Current Activities
 
-- ✨Creating my own discord bot as a learning project for nodejs
+- ✨ Learning [Flutter](https://flutter.dev)
 
 - 📚 Going through third year of highschool.
 
