@@ -1,4 +1,4 @@
-#  Hello. <a href="https://www.codewars.com/users/Yakiyo"><img src="https://www.codewars.com/users/Yakiyo/badges/micro" alt="codewars-badge" align="right"></a>
+#  Hello.
 
 Im Yakiyo, just an average high schooler. I like reading Light Novels and Mangas, and occassionally enjoy watching animes, tv shows and movies.
 I code in my free time. Javascript/Typescript, Python, Dart, Rust coder.
