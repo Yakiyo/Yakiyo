@@ -1,4 +1,4 @@
-#  Hello.
+#  Hello. <a href="https://www.codewars.com/users/Yakiyo"><img src="https://www.codewars.com/users/Yakiyo/badges/micro" alt="codewars-badge" align="right"></a>
 
 Im Yakiyo, just an average high schooler. I like reading Light Novels and Mangas, and occassionally enjoy watching animes, tv shows and movies.
 I code in my free time. Javascript/Typescript, Python, Dart, Rust coder.
@@ -6,7 +6,7 @@ I code in my free time. Javascript/Typescript, Python, Dart, Rust coder.
 
 ## Current Activities
 
-- ✨ Learning [Flutter](https://flutter.dev)
+- ✨ Learning CSS
 
 - 📚 Going through third year of highschool.
 
@@ -17,6 +17,8 @@ I code in my free time. Javascript/Typescript, Python, Dart, Rust coder.
 - 🔗 **Discord** - [_Yakiyo#1206_](https://discord.bio/yakiyo)
 
 - 🍿 **Anilist** - [_Yakiyo_](https://anilist.co/user/763771)
+
+- 🌐 **Codewars** - [_Yakiyo_](https://www.codewars.com/users/Yakiyo) <img src="https://www.codewars.com/users/Yakiyo/badges/micro" alt="codewars-badge" align="right">
 
 <hr>
 
