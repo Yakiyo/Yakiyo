@@ -6,7 +6,7 @@ I code in my free time. Javascript/Typescript, Python, Dart, Rust coder.
 
 ## Current Activities
 
-- ✨ Learning CSS
+- ✨ Making a [Discord Bot](https://github.com/Yakiyo/saki) for the [Gimai Seikatsu](https://anilist.co/manga/126268) [Discord Server](https://discord.gg/WQspAHcJHB)
 
 - 📚 Going through third year of highschool.
 
