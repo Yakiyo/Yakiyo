@@ -1,16 +1,28 @@
 #  Hello.
 
 Im Yakiyo, just an average high schooler. I like reading Light Novels and Mangas, and occassionally enjoy watching animes, tv shows and movies.
-I code in my free time. Javascript/Typescript, Python, Dart, Rust coder.
+I code in my free time. I write code in Javascript/Typescript, Dart, Rust, Python (only da basics cz I dont like the lang).
+
+## More on me
+### Languages
+- Favourite: [Typescript](https://www.typescriptlang.org)
+- Currently enjoying: [Rust](https://www.rust-lang.org/)
+- Learning at the moment: [Lua](https://www.lua.org)
+- Want to learn next: [Zig](https://ziglang.org/)
+
+### Editors
+- Like: [Visual Studio Code](https://code.visualstudio.com/)
+- Trying out: [Neovim](https://neovim.io/)
+- Others: [Sublime Text](https://www.sublimetext.com/)
 
 
 ## Current Activities
 
-- ✨ Making a [Discord Bot](https://github.com/Yakiyo/saki) for the [Gimai Seikatsu](https://anilist.co/manga/126268) [Discord Server](https://discord.gg/WQspAHcJHB)
+- ✨ Learning [Lua](https://www.lua.org/)
 
 - 📚 Going through third year of highschool.
 
-- 📘 Reading Light Novels
+- 📘 Reading Light Novels & watching anime.
 
 ## Socials
 
@@ -22,6 +34,7 @@ I code in my free time. Javascript/Typescript, Python, Dart, Rust coder.
 
 <hr>
 
+<!-- Taken from @didinele's readme https://github.com/didinele/didinele -->
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -32,5 +45,4 @@ I code in my free time. Javascript/Typescript, Python, Dart, Rust coder.
     </td>
   </tr>
 </table>
-<!-- Taken from didinele https://github.com/didinele/didinele -->
 <p align="center"><a href="https://discord.bio/Yakiyo"><img alt="Discord Card" src="https://lanyard.cnrad.dev/api/695307292815654963?borderRadius=10px&theme=dark&idleMessage=Dying%20in%20the%20middle%20of%20nowhere"></a></p>
