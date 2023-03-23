@@ -18,7 +18,7 @@ I code in my free time. I write code in Javascript/Typescript, Dart, Rust, Pytho
 
 ## Current Activities
 
-- ✨ Learning [Lua](https://www.lua.org/)
+- ✨ Learning [V](https://vlang.io)
 
 - 📚 Going through third year of highschool.
 
