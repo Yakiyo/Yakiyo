@@ -7,8 +7,8 @@ I code in my free time. I write code in Javascript/Typescript, Dart, Rust, Pytho
 ### Languages
 - Favourite: [Typescript](https://www.typescriptlang.org)
 - Currently enjoying: [Rust](https://www.rust-lang.org/)
-- Learning at the moment: [Lua](https://www.lua.org)
-- Want to learn next: [Zig](https://ziglang.org/)
+- Learning at the moment: [V](https://vlang.io)
+<!-- - Want to learn next: [Zig](https://ziglang.org/) -->
 
 ### Editors
 - Like: [Visual Studio Code](https://code.visualstudio.com/)
