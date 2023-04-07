@@ -7,7 +7,7 @@ I code in my free time. I write code in Javascript/Typescript, Dart, Rust, Pytho
 ### Languages
 - Favourite: [Typescript](https://www.typescriptlang.org)
 - Currently enjoying: [Rust](https://www.rust-lang.org/)
-- Learning at the moment: [V](https://vlang.io)
+<!-- - Learning at the moment: [V](https://vlang.io) -->
 <!-- - Want to learn next: [Zig](https://ziglang.org/) -->
 
 ### Editors
@@ -18,8 +18,8 @@ I code in my free time. I write code in Javascript/Typescript, Dart, Rust, Pytho
 
 ## Current Activities
 
-- ✨ Learning [V](https://vlang.io)
-
+<!-- - ✨ Learning [V](https://vlang.io) -->
+<!--  -->
 - 📚 Going through third year of highschool.
 
 - 📘 Reading Light Novels & watching anime.
