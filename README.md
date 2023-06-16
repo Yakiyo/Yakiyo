@@ -45,4 +45,4 @@ I code in my free time. I write code in Javascript/Typescript, Dart, Rust, Pytho
     </td>
   </tr>
 </table>
-<p align="center"><a href="https://discord.bio/Yakiyo"><img alt="Discord Card" src="https://lanyard.cnrad.dev/api/695307292815654963?borderRadius=10px&theme=dark&idleMessage=Dying%20in%20the%20middle%20of%20nowhere"></a></p>
+<p align="center"><a href="https://discord.bio/Yakiyo"><img alt="Discord Card" src="https://lanyard.cnrad.dev/api/695307292815654963?borderRadius=10px&theme=dark&idleMessage=Dying%20in%20the%20middle%20of%20nowhere&hideDiscrim=true&bg=00000000&borderRadius=10px"></a></p>
