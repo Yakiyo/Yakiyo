@@ -1,13 +1,13 @@
 #  Hello.
 
 Im Yakiyo, just an average high schooler. I like reading Light Novels and Mangas, and occassionally enjoy watching animes, tv shows and movies.
-I code in my free time. I write code in Javascript/Typescript, Dart, Rust, Python (only da basics cz I dont like the lang).
+I code in my free time. I write code in Javascript/Typescript, Dart, Rust, Go, Python (only da basics cz I dont like the lang).
 
 ## More on me
 ### Languages
 - Favourite: [Typescript](https://www.typescriptlang.org)
 - Currently enjoying: [Rust](https://www.rust-lang.org/)
-<!-- - Learning at the moment: [V](https://vlang.io) -->
+- Learning at the moment: [Go](https://go.dev)
 <!-- - Want to learn next: [Zig](https://ziglang.org/) -->
 
 ### Editors
