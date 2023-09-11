@@ -16,15 +16,13 @@ I code in my free time. I write code in Javascript/Typescript, Dart, Rust, Go, P
 
 ## Current Activities
 
-<!-- - ✨ Learning [V](https://vlang.io) -->
-<!--  -->
 - 📚 Going through third year of highschool.
 
 - 📘 Reading Light Novels & watching anime.
 
 ## Socials
 
-- 🔗 **Discord** - [_Yakiyo#1206_](https://discord.bio/yakiyo)
+- 🔗 **Discord** - [_yakiyo_](https://discord.bio/yakiyo)
 
 - 🍿 **Anilist** - [_Yakiyo_](https://anilist.co/user/763771)
 
@@ -43,6 +41,6 @@ I code in my free time. I write code in Javascript/Typescript, Dart, Rust, Go, P
     </td>
   </tr>
 </table>
-<p align="center"><a href="https://discord.bio/Yakiyo"><img alt="Discord Card" src="https://lanyard.cnrad.dev/api/695307292815654963?borderRadius=10px&theme=dark&idleMessage=Dying%20in%20the%20middle%20of%20nowhere&hideDiscrim=true&bg=00000000&borderRadius=10px"></a></p>
+<!-- <p align="center"><a href="https://discord.bio/Yakiyo"><img alt="Discord Card" src="https://lanyard.cnrad.dev/api/695307292815654963?borderRadius=10px&theme=dark&idleMessage=Dying%20in%20the%20middle%20of%20nowhere&hideDiscrim=true&bg=00000000&borderRadius=10px"></a></p> -->
 
 <!-- <p align="center"> <img alt="spotify-last-played" src="https://spotify-recently-played-readme.vercel.app/api?user=df21tvweff4zfxuwg3fpia5dd&unique=yes"></p> -->
