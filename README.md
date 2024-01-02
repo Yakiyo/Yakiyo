@@ -16,7 +16,7 @@ I code in my free time. I write code in Javascript/Typescript, Dart, Rust, Go, P
 
 ## Current Activities
 
-- 📚 Going through third year of highschool.
+- 📚 Preparing for university admissions.
 
 - 📘 Reading Light Novels & watching anime.
 
