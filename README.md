@@ -5,8 +5,8 @@ I code in my free time. I write code in Javascript/Typescript, Dart, Rust, Go, P
 
 ## More on me
 ### Languages
-- Favourite: [Rust](https://www.rust-lang.org/)
-- Learning at the moment: [Go](https://go.dev)
+- Favourite: [Go](https://go.dev)
+- Learning at the moment: C++
 
 ### Editors
 - Like: [Visual Studio Code](https://code.visualstudio.com/)
