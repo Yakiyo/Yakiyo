@@ -5,7 +5,7 @@ I'm Yakiyo, your average teen sef-taught developer. My journey in programming be
 ## More on me
 ### Languages
 - Favourite: [Go](https://go.dev)
-- Learning at the moment: C++
+- Learning at the moment: [Zig](https://ziglang.org/)
 
 ### Editors
 - Like: [Visual Studio Code](https://code.visualstudio.com/)
