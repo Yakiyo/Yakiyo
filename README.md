@@ -1,6 +1,6 @@
 #  Hello.
 
-I'm Yakiyo, your average teen sef-taught developer. My journey in programming began when I made a discord bot for my friend's server (yes, I'm a discord fanatic) and ever since then, I've been hooked. I'm interested in backends, GUIs, dekstop apps, command line tools, compilers/interpreters and a whole other bunch of stuff. I'm familar with Go, Rust, Javascript, Typescript, Dart and know a bit of python, C, C++ and Lua. In my free time, I prefer reading books, novels, mangas or watching animes. 
+I'm Yakiyo, your average teen self-taught developer. My journey in programming began when I made a discord bot for my friend's server (yes, I'm a discord fanatic) and ever since then, I've been hooked. I'm interested in backends, GUIs, dekstop apps, command line tools, compilers/interpreters and a whole other bunch of stuff. I'm familar with Go, Rust, Javascript, Typescript, Dart and know a bit of python, C, C++ and Lua. In my free time, I prefer reading books, novels, mangas or watching animes. 
 
 ## More on me
 ### Languages
