@@ -15,10 +15,9 @@ I'm Yakiyo, your average teen self-taught developer. My journey in programming b
 
 ## Current Activities
 
-- 📚 Preparing for university admissions.
+- 📚 Taking L's in quiz
 
-- 📘 Reading Light Novels & watching anime.
-
+- 📘 Procastinating everything and playing valorant (noob btw)
 ## Socials
 
 - 🔗 **Discord** - [_yakiyo_](https://discord.bio/yakiyo)
