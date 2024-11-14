@@ -5,7 +5,7 @@ I'm Yakiyo, your average teen self-taught developer. My journey in programming b
 ## More on me
 ### Languages
 - Favourite: [Go](https://go.dev)
-- Learning at the moment: [Zig](https://ziglang.org/)
+- Learning at the moment: [Flutter](https://flutter.dev/)
 
 ### Editors
 - Like: [Visual Studio Code](https://code.visualstudio.com/)
